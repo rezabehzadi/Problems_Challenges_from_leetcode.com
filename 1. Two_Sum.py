@@ -26,8 +26,6 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 """
 
-import os
-
 # Solution 1:
 # def twoSum(nums,target):
 #     for i in range(len(nums)):
